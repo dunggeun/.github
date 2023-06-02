@@ -7,6 +7,10 @@
 
 _이 가치가 비록 사소하고 작은 가치일지라도 말이죠._
 
+### 바로가기
+
+- UP 설치하러 가기 ([앱스토어](https://apps.apple.com/kr/app/up-grow-yourself/id6448998790), [플레이스토어](https://play.google.com/store/apps/details?id=dev.geundung.up))
+
 <!--
 
 **Here are some ideas to get you started:**
